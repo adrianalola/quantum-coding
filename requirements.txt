@@ -1,0 +1,9 @@
+qsharp
+qsharp-widgets
+ipykernel
+azure-quantum
+pulser
+pulser-pasqal
+matplotlib
+pylatexenc
+pyperclip
